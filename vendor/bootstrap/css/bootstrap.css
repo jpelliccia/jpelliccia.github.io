@@ -4273,7 +4273,7 @@ input[type="button"].btn-block {
     flex-wrap: nowrap;
   }
   .navbar-expand-sm .navbar-collapse {
-    display: -ms-flexbox !important;
+    display: -ms-flexbox ;
     display: flex !important;
     -ms-flex-preferred-size: auto;
     flex-basis: auto;
@@ -10019,7 +10019,7 @@ a.text-dark:hover, a.text-dark:focus {
   }
   .table-bordered th,
   .table-bordered td {
-    border: 1px solid #dee2e6 !important;
+    border: 1px solid #dee2e6 ;
   }
   .table-dark {
     color: inherit;
